@@ -16,7 +16,6 @@ widget:
     type: gamedig
     serverType: csgo # see https://github.com/gamedig/node-gamedig#games-list
     url: udp://server.host.or.ip:port
-    fields: ["map", "currentPlayers", "ping"] # see Allowed fields
 ```
 
 <img alt="GameDig Widget" src="https://github-production-user-asset-6210df.s3.amazonaws.com/18687289/256046577-f973503b-d309-493b-b88b-03a518c611bc.png">
