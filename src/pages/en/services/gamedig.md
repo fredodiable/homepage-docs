@@ -9,7 +9,7 @@ Use [GameDig](https://www.npmjs.com/package/gamedig) library to get game's serve
 Widget example for [Counter-Strike: Global Offensive (CSGO) Server](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive/Dedicated_Servers).\
 You can use `counter-strike-global-offensive.png` or `counter-strike-2.png` as icon.
 
-Allowed fields: `["name", "map", "currentPlayers", "players", "maxPlayers", "bots", "ping"]`.
+Allowed fields: `["status", "name", "map", "currentPlayers", "players", "maxPlayers", "bots", "ping"]`.
 
 ```yaml
 widget:
